@@ -1,0 +1,4 @@
+repository "Sliding puzzle/Sliding puzzle@1375810690162@cloud"
+  path "/"
+    br "/main"
+    co "/main"
